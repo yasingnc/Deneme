@@ -19,3 +19,9 @@ noktalı liste
 ***
 ![Lorem Picsum Gorsel](https://picsum.photos/200/300)
 ***
+***
+[MarkdownKodlarıİçinİnceleyebilirsin](www.commonmark.org)
+***
+
+notion.sh -- içerik oluşturma sitesi inceleyebilirsin.
+
